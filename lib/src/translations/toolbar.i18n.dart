@@ -417,14 +417,14 @@ extension Localization on String {
           'Edit': 'Modifier',
           'Apply': 'Appliquer',
           'Find text': 'Find text',
-          'Move to previous occurrence': 'Move to previous occurrence',
-          'Move to next occurrence': 'Move to next occurrence',
-          'Saved using the network': 'Saved using the network',
-          'Saved using the local storage': 'Saved using the local storage',
-          'Error while saving image': 'Error while saving image',
-          'Please enter a text for your link': "e.g., 'Learn more)",
-          'Please enter the link url': "e.g., 'https://example.com'",
-          'Please enter a valid image url': 'Please enter a valid image url'
+          'Move to previous occurrence': "Aller à l'occurrence précédente",
+          'Move to next occurrence': "Aller à l'occurrence suivante",
+          'Saved using the network': 'Enregistré via le réseau',
+          'Saved using the local storage': 'Enregistré en utilisant le stockage local',
+          'Error while saving image': "Erreur lors de l'enregistrement de l'image",
+          'Please enter a text for your link': "par exemple, 'En savoir plus'",
+          'Please enter the link url': "par exemple, 'https://example.com'",
+          'Please enter a valid image url': "Veuillez saisir une URL d'image valide"
         },
         'zh_cn': {
           'Paste a link': '粘贴链接',
